@@ -1,4 +1,3 @@
-# credit-card-fraud-analysis-powerbi
 # 🚨 Credit Card Fraud Risk Analysis Using Power BI
 
 This project is a real-world dashboard built to analyze and detect fraudulent credit card transactions using Power BI.
@@ -32,14 +31,16 @@ The dashboard helps teams:
 * Data Modeling
 * Visualization Design
 
-## 📸 Screenshots
+## 📸 Dashboard Preview
 
-*Add some dashboard screenshots here (upload in `images/` folder)*
+![Dashboard Screenshot](https://github.com/Rajnandini-0804/credit-card-fraud-analysis-powerbi/blob/main/Screenshot%202025-06-26%20220732.png?raw=true)
 
-## 📁 Files Included
 
-* 📊 Power BI (.pbix) file-
-* 📃 Sample dataset (CSV)-
-* 📷 Dashboard screenshots-
+## 📂 Dataset
+
+[📥 Download Credit Card Fraud Risk Analysis CSV](https://github.com/Rajnandini-0804/credit-card-fraud-analysis-powerbi/blob/main/Credit%20Card%20Fraud%20Risk%20Analysis.csv?raw=true)  
+ 
+
+
 
 
