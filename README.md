@@ -30,11 +30,14 @@ The dashboard helps teams:
 * DAX
 * Data Modeling
 * Visualization Design
+  ## 📊 Power BI File
+
+[📥 Download Credit Card Fraud Power BI Dashboard (.pbix)](https://github.com/Rajnandini-0804/credit-card-fraud-analysis-powerbi/blob/main/credit%20card%20fraud.pbix?raw=true)
+
 
 ## 📸 Dashboard Preview
 
 ![Dashboard Screenshot](https://github.com/Rajnandini-0804/credit-card-fraud-analysis-powerbi/blob/main/Screenshot%202025-06-26%20220732.png?raw=true)
-
 
 ## 📂 Dataset
 
